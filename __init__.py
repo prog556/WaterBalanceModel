@@ -13,3 +13,5 @@ configuration = \
                         cur_session_folder = r'C:\temp\WaterBalanceModule_workspace',
                         cur_processing_mode = "multiple cores asynchronously",
                         verbose = "True")
+
+#test change
