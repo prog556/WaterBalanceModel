@@ -15,7 +15,7 @@ import csv
 
 #Current day for prism
 current = date.day + date.month + date.year
-
+#
 
 
 Gridded_Observed_Data_1950_1999 = ['Gridded Observed Data(1950-1999)', 'dods://cida.usgs.gov/thredds/dodsC/gmo/GMO_w_meta.ncml', 'Daily', '01/01/1950', '12/31/1999', 'Prcp', 'Tavg']
