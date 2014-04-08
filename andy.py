@@ -1,4 +1,4 @@
-# this is a test
+# this is a test 2
 # dependencies OWSLIB, xmltree
 import os,pyGDP,shutil
 from datetime import date
